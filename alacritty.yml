@@ -94,17 +94,17 @@ colors:
   normal:
     black:   '#1d1f21'
     red:     '#ec7279'
-    green:   '#a0c980'
+    green:   '#a5d990'
     yellow:  '#deb974'
-    blue:    '#6cb6eb'
+    blue:    '#6fb6eb'
     magenta: '#d38aea'
-    cyan:    '#5dbbc1'
+    cyan:    '#1aabb1'
     white:   '#c5c8c6'
 
   bright:
-    black:   '#666666'
+    black:   '#545454'
     red:     '#d54e53'
-    green:   '#b9ca4a'
+    green:   '#5af78e'
     yellow:  '#e7c547'
     blue:    '#7aa6da'
     magenta: '#c397d8'
@@ -112,14 +112,14 @@ colors:
     white:   '#ffffff'
 
   dim:
-    black:   '#131415'
-    red:     '#864343'
-    green:   '#777c44'
-    yellow:  '#9e824c'
-    blue:    '#556a7d'
-    magenta: '#75617b'
-    cyan:    '#5b7d78'
-    white:   '#828482'
+    black:   '#252525'
+    red:     '#86423f'
+    green:   '#5e6547'
+    yellow:  '#867673'
+    blue:    '#5f6b99'
+    magenta: '#6e4962'
+    cyan:    '#5c8482'
+    white:   '#aaaaaa'
 
   indexed_colors: []
 
