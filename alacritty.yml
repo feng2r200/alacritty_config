@@ -45,7 +45,7 @@ live_config_reload: true
 #    - -c
 #    - "source ~/.zshrc; tmux attach 2> /dev/null || tmux new -s main"
 
-alt_send_esc: false
+alt_send_esc: true
 
 mouse:
   double_click: { threshold: 300 }
