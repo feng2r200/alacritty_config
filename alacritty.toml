@@ -27,14 +27,7 @@ regex = "(ipfs:|ipns:|magnet:|mailto:|gemini:|gopher:|https:|http:|news:|file:|g
 [mouse]
 hide_when_typing = false
 
-[mouse.double_click]
-threshold = 300
-
-[mouse.triple_click]
-threshold = 300
-
 [scrolling]
-faux_multiplier = 100
 history = 100000
 multiplier = 10
 
