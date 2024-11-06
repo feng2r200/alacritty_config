@@ -1,4 +1,6 @@
+[general]
 import = ["/Users/m/.config/alacritty/colors.toml", "/Users/m/.config/alacritty/fonts.toml", "/Users/m/.config/alacritty/keybindings.toml"]
+
 live_config_reload = true
 
 [bell]
