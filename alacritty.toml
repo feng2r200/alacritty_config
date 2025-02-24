@@ -27,7 +27,7 @@ action = "Select"
 regex = "(ipfs:|ipns:|magnet:|mailto:|gemini:|gopher:|https:|http:|news:|file:|git:|ssh:|ftp:)[^\u0000-\u001F\u007F-<>\"\\s{-}\\^⟨⟩`]+"
 
 [mouse]
-hide_when_typing = false
+hide_when_typing = true
 
 [scrolling]
 history = 100000
