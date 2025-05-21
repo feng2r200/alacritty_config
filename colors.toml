@@ -10,7 +10,7 @@ index = 17
 color = "0xff7eb6"
 
 [colors.primary]
-background = "0x161616"
+background = "0x202020"
 foreground = "0xf2f4f8"
 
 [colors.normal]
