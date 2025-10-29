@@ -35,13 +35,13 @@ white='0xe4e4e5'
 
 [colors.dim]
 black = "#090909"
-blue = "#607fca"
-cyan = "#5c8482"
-green = "#459a6f"
-magenta = "#6f296a"
 red = "#a04c40"
-white = "#aaaaaa"
+green = "#459a6f"
 yellow = "#8f8800"
+blue = "#607fca"
+magenta = "#6f296a"
+cyan = "#5c8482"
+white = "#aaaaaa"
 
 [colors.cursor]
 cursor = "CellForeground"
