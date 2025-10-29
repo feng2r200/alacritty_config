@@ -1,5 +1,5 @@
 [general]
-import = ["/Users/m/.config/alacritty/colors.toml", "/Users/m/.config/alacritty/fonts.toml", "/Users/m/.config/alacritty/keybindings.toml"]
+import = ["/Users/ld/.config/alacritty/colors.toml", "/Users/ld/.config/alacritty/fonts.toml", "/Users/ld/.config/alacritty/keybindings.toml"]
 
 live_config_reload = true
 
@@ -43,6 +43,7 @@ dynamic_padding = true
 dynamic_title = true
 opacity = 0.95
 startup_mode = "Windowed"
+option_as_alt = "OnlyLeft"
 
 [window.dimensions]
 columns = 0
