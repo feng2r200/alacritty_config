@@ -3,15 +3,15 @@ transparent_background_colors = true
 
 [[colors.indexed_colors]]
 index = 16
-color = '#e0b37d'
+color = '#d9b078'
 
 [[colors.indexed_colors]]
 index = 17
-color = '#ff7eb6'
+color = '#e085b2'
 
 [colors.primary]
 background = '#1a1a1a'
-foreground = '#dfdfdf'
+foreground = '#e0dedf'
 
 [colors.normal]
 black='#2a2a2a'
@@ -20,8 +20,8 @@ green='#4fa281'
 yellow='#d9ba6f'
 blue='#6fa3fd'
 magenta='#c48fff'
-cyan='#61a4b0'
-white='#e2dce1'
+cyan='#5fa9b4'
+white='#e1dbdf'
 
 [colors.bright]
 black='#4b4b4b'
@@ -30,8 +30,8 @@ green='#6cc3a5'
 yellow='#eece87'
 blue='#7db3fd'
 magenta='#d096fd'
-cyan='#6acce2'
-white='#e8e6ea'
+cyan='#54c1d8'
+white='#e4e2e5'
 
 [colors.dim]
 black = '#0b0b0b'
@@ -40,8 +40,8 @@ green = '#43896b'
 yellow = '#c0aa69'
 blue = '#5884d2'
 magenta = '#7b3078'
-cyan = '#538e8b'
-white = '#b0a8a9'
+cyan = '#4c8f96'
+white = '#b0a8aa'
 
 [colors.cursor]
 cursor = 'CellForeground'
@@ -49,7 +49,7 @@ text = 'CellBackground'
 
 [colors.footer_bar]
 background = '#c5c8c6'
-foreground = '#1d1f21'
+foreground = '#3a3a40'
 
 [colors.hints.end]
 background = '#1d1f21'
@@ -64,12 +64,12 @@ background = 'None'
 foreground = 'None'
 
 [colors.search.focused_match]
-background = '#000000'
-foreground = '#ffffff'
+background = '#1a1a1a'
+foreground = '#e0dedf'
 
 [colors.search.matches]
-background = '#ffffff'
-foreground = '#000000'
+background = '#e1dbdf'
+foreground = '#3a3a40'
 
 [colors.selection]
 background = 'CellForeground'
