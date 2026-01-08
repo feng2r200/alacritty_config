@@ -42,11 +42,6 @@ mode = "~Alt"
 mods = "Shift"
 
 [[keyboard.bindings]]
-chars = "\u001F"
-key = "Slash"
-mods = "Control"
-
-[[keyboard.bindings]]
 chars = "\u0000"
 key = "Space"
 mods = "Control"
@@ -838,4 +833,9 @@ mods = "Alt|Shift"
 [[keyboard.bindings]]
 key  = "Enter"
 mods = "Alt"
+chars = "\u001b\r"
+
+[[keyboard.bindings]]
+key  = "Enter"
+mods = "Shift"
 chars = "\u001b\r"
