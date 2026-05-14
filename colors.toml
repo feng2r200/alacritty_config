@@ -4,76 +4,76 @@ draw_bold_text_with_bright_colors = true
 
 [[colors.indexed_colors]]
 index = 16
-color = '#b86e28'
+color = '#c0783f'
 
 [[colors.indexed_colors]]
 index = 17
-color = '#b04472'
+color = '#b85f7a'
 
 [colors.primary]
-background = '#141414'
+background = '#070707'
 foreground = '#d0d0d0'
 
-dim_foreground = '#9a9a9a'
-bright_foreground = '#e0e0e0'
+dim_foreground = '#8a8a8a'
+bright_foreground = '#e6e6e6'
 
 [colors.normal]
-black='#1f1f1f'
-red='#b83232'
-green='#2f8f46'
-yellow='#b68a2b'
-blue='#3f6fb5'
-magenta='#8842a8'
-cyan='#31888f'
-white='#c8c8c8'
+black='#181818'
+red='#c8525f'
+green='#5aa76c'
+yellow='#b89445'
+blue='#5f8fd3'
+magenta='#9b6ac8'
+cyan='#4fa6b3'
+white='#c9c9c9'
 
 [colors.bright]
-black='#444444'
-red='#d14a4a'
-green='#4fae63'
-yellow='#d0a84a'
-blue='#5b86d6'
-magenta='#a45ac0'
-cyan='#45a3ab'
-white='#d8d8d8'
+black='#4a4a4a'
+red='#df6a76'
+green='#6fd084'
+yellow='#d7b85c'
+blue='#7aa8ee'
+magenta='#b486e6'
+cyan='#68c8d6'
+white='#e3e3e3'
 
 [colors.dim]
-black = '#080808'
-red = '#7a2626'
-green = '#246b35'
-yellow = '#7d5f20'
-blue = '#2f5287'
-magenta = '#5f2d75'
-cyan = '#24666b'
-white = '#8a8a8a'
+black = '#050505'
+red = '#7e3139'
+green = '#356b43'
+yellow = '#75612f'
+blue = '#3b5f92'
+magenta = '#61437a'
+cyan = '#336b73'
+white = '#858585'
 
 [colors.cursor]
 cursor = 'CellForeground'
 text = 'CellBackground'
 
 [colors.footer_bar]
-background = '#2a2a2a'
-foreground = '#c8c8c8'
+background = '#181818'
+foreground = '#d0d0d0'
 
 [colors.hints.end]
-background = '#141414'
-foreground = '#d0a84a'
+background = '#070707'
+foreground = '#d7b85c'
 
 [colors.hints.start]
-background = '#d0a84a'
-foreground = '#141414'
+background = '#d7b85c'
+foreground = '#070707'
 
 [colors.line_indicator]
 background = 'None'
 foreground = 'None'
 
 [colors.search.focused_match]
-background = '#141414'
-foreground = '#e0e0e0'
+background = '#070707'
+foreground = '#e6e6e6'
 
 [colors.search.matches]
-background = '#3a3a3a'
-foreground = '#d8d8d8'
+background = '#262626'
+foreground = '#e3e3e3'
 
 [colors.selection]
 background = 'CellForeground'
