@@ -24,7 +24,7 @@ green='#5aa76c'
 yellow='#b89445'
 blue='#5f8fd3'
 magenta='#9b6ac8'
-cyan='#4fa6b3'
+cyan='#00aeca'
 white='#c9c9c9'
 
 [colors.bright]
@@ -34,7 +34,7 @@ green='#6fd084'
 yellow='#d7b85c'
 blue='#7aa8ee'
 magenta='#b486e6'
-cyan='#68c8d6'
+cyan='#19d8e8'
 white='#e3e3e3'
 
 [colors.dim]
@@ -44,7 +44,7 @@ green = '#356b43'
 yellow = '#75612f'
 blue = '#3b5f92'
 magenta = '#61437a'
-cyan = '#336b73'
+cyan = '#007a86'
 white = '#858585'
 
 [colors.cursor]
