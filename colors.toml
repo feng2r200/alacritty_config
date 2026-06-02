@@ -18,27 +18,27 @@ dim_foreground = '#8a8a8a'
 bright_foreground = '#e6e6e6'
 
 [colors.normal]
-black='#181818'
+black='#2a2a2a'
 red='#c8525f'
 green='#5aa76c'
 yellow='#b89445'
 blue='#5f8fd3'
 magenta='#9b6ac8'
 cyan='#00aeca'
-white='#c9c9c9'
+white='#e1dbdf'
 
 [colors.bright]
-black='#4a4a4a'
+black='#4b4b4b'
 red='#df6a76'
 green='#6fd084'
 yellow='#d7b85c'
 blue='#7aa8ee'
 magenta='#b486e6'
 cyan='#19d8e8'
-white='#e3e3e3'
+white='#e4e2e5'
 
 [colors.dim]
-black = '#050505'
+black = '#090909'
 red = '#7e3139'
 green = '#356b43'
 yellow = '#75612f'
